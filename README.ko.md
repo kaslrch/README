@@ -18,7 +18,7 @@
 
 ## 📺 Find Me Here!  
 
-- **이메일**: ✉️ [201043367+kaslrch@users.noreply.github.com](mailto:75514073g@mozmail.com)  
+- **이메일**: ✉️ [75514073g@mozmail.com](mailto:75514073g@mozmail.com)  
 - **블로그**: 📂 [kaslrch.github.io](https://kaslrch.github.io/)  
 - **유튜브**: [Kaslr Ch.](https://www.youtube.com/@KaslrCh)   
 - **깃허브**: [kaslrch](https://github.com/kaslrch)
