@@ -19,7 +19,7 @@ I write about random things I find interesting.
 
 ## 📺 Find Me Here!  
 
-- **Email**: ✉️ [201043367+kaslrch@users.noreply.github.com](mailto:201043367+kaslrch@users.noreply.github.com)  
+- **Email**: ✉️ [201043367+kaslrch@users.noreply.github.com](mailto:75514073g@mozmail.com)  
 - **Blog**: 📂 [kaslrch.github.io](https://kaslrch.github.io/)  
 - **YouTube**: [Kaslr Ch.](https://www.youtube.com/@KaslrCh)  
 - **GitHub**: [kaslrch](https://github.com/kaslrch)
